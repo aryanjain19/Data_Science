@@ -8,6 +8,6 @@ This is the Computer Vision directory and it includes the implimentation of -
 
 This also includes -
   1. Lane Detection
-  2. Object Detector/Identifier
+  2. Object Detector/Identifier ( Present in Convulation and Correlation)
   3. Face Detector
   
